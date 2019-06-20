@@ -1,48 +1,29 @@
-[
-{
+[{
   "type": "text",
-  "text": "其實也就是個定位在官方宣傳的內容機器人，但也不想顯得太無趣，耗了大家的時間。恰好想起很久以前的文學夢，想起了紅樓夢，想起了最後那一片大地，真乾淨。"
+  "text": "在大二時我接觸到Excel VBA，這是我第一次接觸到程式，才知道原來程式可以做到許多powerful的事情，因此我開始花大量時間學習VBA，使用youtube及google找到許多學習資源，也開始對程式漸漸熟悉\n\n而在大三時，我接觸到LineBot，當看到別人做出可以模仿自己訊息的LineBot時，覺得非常不可思議以及有趣，因此我開始上網找資料研究，這也是我開始知道github、AWS、API等許多技術名詞或是工具的起點"
 },
 {
-  "type": "image",
-  "originalContentUrl": "PROVIDE_URL_FROM_YOUR_SERVER",
-  "previewImageUrl": "PROVIDE_URL_FROM_YOUR_SERVER",
-  "animated": true
+  "type": "text",
+  "text": "在自學的旅途中，雖然十分辛苦，尤其是面對許多看不懂的技術文件，但是一旦成功了，頓時會十分興奮以及成就感\n\n就例如這個Line機器人，我在9月時第一次知道AWS，並學著用AWS串接Line API，在這過程中失敗不下數百次，但當我成功讓此機器人可以和我互動時，之前的失敗反而轉化成極大的成就感。"
 },
 {
   "type": "template",
-  "altText": "this is a buttons template",
+  "altText": "this is a confirm template",
   "template": {
-    "type": "buttons",
+    "type": "confirm",
     "actions": [
       {
-        "type": "postback",
-        "label": "29年以下",
-        "text": "開生面夢演紅樓",
-        "data": "menu=rich_menu_1"
+        "type": "message",
+        "label": "是",
+        "text": "是"
       },
       {
-        "type": "postback",
-        "label": "30-45年",
-        "text": "情切切良宵花語",
-        "data": "menu=rich_menu_2"
-      },
-      {
-        "type": "postback",
-        "label": "46年以上",
-        "text": "以假混真玉瘋巔",
-        "data": "menu=rich_menu_3"
-      },
-      {
-        "type": "postback",
-        "label": "無可奉告",
-        "text": "語村歸結紅樓夢",
-        "data": "menu=rich_menu_0"
+        "type": "message",
+        "label": "回主選單",
+        "text": "回主選單"
       }
     ],
-    "thumbnailImageUrl": "https://d.blog.xuite.net/d/0/b/e/238561270/blog_3571718/txt/221184295/0.gif",
-    "title": "你在紅塵中逗留了幾年？",
-    "text": "沈浸式互動的樂趣，在於選擇的不可逆與結果"
+    "text": "瀏覽其他主題?"
   }
 }
 ]

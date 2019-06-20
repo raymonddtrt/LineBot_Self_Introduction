@@ -1,13 +1,6 @@
-[
-{
+[{
   "type": "text",
-  "text": "其實也就是個定位在官方宣傳的內容機器人，但也不想顯得太無趣，耗了大家的時間。恰好想起很久以前的文學夢，想起了紅樓夢，想起了最後那一片大地，真乾淨。"
-},
-{
-  "type": "image",
-  "originalContentUrl": "PROVIDE_URL_FROM_YOUR_SERVER",
-  "previewImageUrl": "PROVIDE_URL_FROM_YOUR_SERVER",
-  "animated": true
+  "text": "我就讀輔大金融與國際企業學系，在大學期間，除了平時上課認真聽講，在課後也積極閱讀財金相關的書籍，因此在學業的部分幾乎都維持在前10名，也得過3次書卷獎。\n除此之外，在大二時參加臺大「Collaborator產經共學社」，與已經在業界的學長姐學習許多產業及經濟相關知識。"
 },
 {
   "type": "template",
@@ -16,33 +9,17 @@
     "type": "buttons",
     "actions": [
       {
-        "type": "postback",
-        "label": "29年以下",
-        "text": "開生面夢演紅樓",
-        "data": "menu=rich_menu_1"
+        "type": "message",
+        "label": "社團",
+        "text": "社團"
       },
       {
-        "type": "postback",
-        "label": "30-45年",
-        "text": "情切切良宵花語",
-        "data": "menu=rich_menu_2"
+        "type": "message",
+        "label": "課外活動",
+        "text": "課外活動"
       },
-      {
-        "type": "postback",
-        "label": "46年以上",
-        "text": "以假混真玉瘋巔",
-        "data": "menu=rich_menu_3"
-      },
-      {
-        "type": "postback",
-        "label": "無可奉告",
-        "text": "語村歸結紅樓夢",
-        "data": "menu=rich_menu_0"
-      }
+
     ],
-    "thumbnailImageUrl": "https://d.blog.xuite.net/d/0/b/e/238561270/blog_3571718/txt/221184295/0.gif",
-    "title": "你在紅塵中逗留了幾年？",
-    "text": "沈浸式互動的樂趣，在於選擇的不可逆與結果"
+    "text": "瀏覽其他主題"
   }
-}
-]
+}]

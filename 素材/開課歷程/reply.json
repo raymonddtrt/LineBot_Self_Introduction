@@ -1,48 +1,24 @@
-[
-{
+[{
   "type": "text",
-  "text": "其實也就是個定位在官方宣傳的內容機器人，但也不想顯得太無趣，耗了大家的時間。恰好想起很久以前的文學夢，想起了紅樓夢，想起了最後那一片大地，真乾淨。"
-},
-{
-  "type": "image",
-  "originalContentUrl": "PROVIDE_URL_FROM_YOUR_SERVER",
-  "previewImageUrl": "PROVIDE_URL_FROM_YOUR_SERVER",
-  "animated": true
+  "text": "在2017/11月時，發現Tibame課程平台，因此聯想到可以將自己在Excel爬蟲上的專長，錄製成線上課程，為此，我在臉書先開了一個社團放置教學影片，並邀請社團上許多朋友進來觀看並給予建議\n\n在今年1月時，我將得到的建議收集起來，再重新錄製一遍，由於同時擔任社團社長，因此花了近4個月，終於在5月中上架\n\n製作課程固然辛苦，且花費大量時間及心力，但當上架後得到學員好評，是一件十分快樂且具有成就感的事\n\n連結:\nhttps://www.tibame.com/course/287"
 },
 {
   "type": "template",
-  "altText": "this is a buttons template",
+  "altText": "this is a confirm template",
   "template": {
-    "type": "buttons",
+    "type": "confirm",
     "actions": [
       {
-        "type": "postback",
-        "label": "29年以下",
-        "text": "開生面夢演紅樓",
-        "data": "menu=rich_menu_1"
+        "type": "message",
+        "label": "是",
+        "text": "是"
       },
       {
-        "type": "postback",
-        "label": "30-45年",
-        "text": "情切切良宵花語",
-        "data": "menu=rich_menu_2"
-      },
-      {
-        "type": "postback",
-        "label": "46年以上",
-        "text": "以假混真玉瘋巔",
-        "data": "menu=rich_menu_3"
-      },
-      {
-        "type": "postback",
-        "label": "無可奉告",
-        "text": "語村歸結紅樓夢",
-        "data": "menu=rich_menu_0"
+        "type": "message",
+        "label": "回主選單",
+        "text": "回主選單"
       }
     ],
-    "thumbnailImageUrl": "https://d.blog.xuite.net/d/0/b/e/238561270/blog_3571718/txt/221184295/0.gif",
-    "title": "你在紅塵中逗留了幾年？",
-    "text": "沈浸式互動的樂趣，在於選擇的不可逆與結果"
+    "text": "瀏覽其他主題?"
   }
-}
-]
+}]
