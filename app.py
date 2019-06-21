@@ -160,7 +160,7 @@ def process_follow_event(event):
         result_message_array
     )
 
-    follow_rich_menu_id = open("./material/rich_menu_0/rich_menu_id", "r").read()
+    follow_rich_menu_id = open("./素材/rich_menu_0/rich_menu_id", "r").read()
     self_user_id = event.source.user_id
     line_bot_api.link_rich_menu_to_user(self_user_id, follow_rich_menu_id)
 
