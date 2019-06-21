@@ -1,0 +1,22 @@
+[{
+  "type": "text",
+  "text": "在雲育鏈實習，我學習到許多資訊相關的技術，github、LineBot、Python、AWS等等，除此之外，我們也製作了一款區塊鏈桌遊，以此參加創業競賽，並成功在近百個團隊中脫穎而出，入選複賽\n\n新聞報導\nhttps://campus.chinatimes.com/20190620003347-262301?fbclid=IwAR31iwHaBn4cJ_WoESp6Ulk6l_QjJYurpP5JBAN8oGFCqO_Wzxkssp3Z-q4"
+},
+{
+  "type": "image",
+  "originalContentUrl": "https://linebotselfintroduction.s3-us-west-2.amazonaws.com/%E5%89%B5%E6%A5%AD%E7%AB%B6%E8%B3%BD.JPG",
+  "previewImageUrl": "https://linebotselfintroduction.s3-us-west-2.amazonaws.com/%E5%89%B5%E6%A5%AD%E7%AB%B6%E8%B3%BD.JPG",
+  "animated": false
+},
+{
+  "type": "image",
+  "originalContentUrl": "https://linebotselfintroduction.s3-us-west-2.amazonaws.com/%E5%89%B5%E6%A5%AD%E7%AB%B6%E8%B3%BD2.JPG",
+  "previewImageUrl": "https://linebotselfintroduction.s3-us-west-2.amazonaws.com/%E5%89%B5%E6%A5%AD%E7%AB%B6%E8%B3%BD2.JPG",
+  "animated": false
+},
+{
+  "type": "image",
+  "originalContentUrl": "https://linebotselfintroduction.s3-us-west-2.amazonaws.com/%E5%89%B5%E6%A5%AD%E7%AB%B6%E8%B3%BD3.JPG",
+  "previewImageUrl": "https://linebotselfintroduction.s3-us-west-2.amazonaws.com/%E5%89%B5%E6%A5%AD%E7%AB%B6%E8%B3%BD3.JPG",
+  "animated": false
+}]

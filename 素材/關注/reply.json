@@ -1,30 +1,4 @@
 [{
   "type": "text",
-  "text": "Hello~我是辰祐的小機器人，很開心你將我設為好友，我的功能是讓你快速了解簡辰祐這個人，那我們就從下列選單開始吧! \n(若想回主選單可隨時在最下方選單選擇\"主選單\")"
-},{
-  "type": "template",
-  "altText": "this is a buttons template",
-  "template": {
-    "type": "buttons",
-    "actions": [
-      {
-        "type": "message",
-        "label": "學業",
-        "text": "學業"
-      },
-      {
-        "type": "message",
-        "label": "社團",
-        "text": "社團"
-      },
-      {
-        "type": "message",
-        "label": "課外活動",
-        "text": "課外活動"
-      }
-    ],
-    "thumbnailImageUrl": "https://s3-us-west-2.amazonaws.com/linebotselfintroduction/hellowithwaves.png",
-    "title": "主選單",
-    "text": "你想從哪個部分開始認識辰祐呢?"
-  }
+  "text": "Hello~我是辰祐的小機器人，很開心你將我設為好友\n辰祐是個是一個積極，不斷自我突破的人，在大學這四年，做了很多其他學生不會做的事情\n直接點選選單來了解不同時期的辰祐吧！"
 }]

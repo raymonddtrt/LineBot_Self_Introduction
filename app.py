@@ -160,6 +160,9 @@ def process_follow_event(event):
         result_message_array
     )
 
+    follow_rich_menu_id = open("./material/rich_menu_0/rich_menu_id", "r").read()
+    self_user_id = event.source.user_id
+    line_bot_api.link_rich_menu_to_user(self_user_id, follow_rich_menu_id)
 
 # In[13]:
 
@@ -280,5 +283,5 @@ Application 運行（heroku版）
 
 import os
 if __name__ == "__main__":
-    app.run(host='0.0.0.0',port=os.environ['PORT'])
+    app.run(host='0.0.0.0')
 

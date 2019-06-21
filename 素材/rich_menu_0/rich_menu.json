@@ -1,100 +1,46 @@
 {
   "size": {
     "width": 2500,
-    "height": 1686
+    "height": 843
   },
   "selected": true,
-  "name": "主要的功能選單 - 經典款",
-  "chatBarText": "主功能選單",
+  "name": "richmenu",
+  "chatBarText": "查看更多資訊",
   "areas": [
     {
       "bounds": {
-        "x": 45,
-        "y": 125,
-        "width": 549,
-        "height": 684
-      },
-      "action": {
-        "type": "postback",
-        "text": "想知道AI的戰略價值",
-        "data": "tag=ai"
-      }
-    },
-    {
-      "bounds": {
-        "x": 619,
-        "y": 120,
-        "width": 639,
-        "height": 693
-      },
-      "action": {
-        "type": "postback",
-        "text": "想知道區塊鏈的戰略價值",
-        "data": "tag=blockchain"
-      }
-    },
-    {
-      "bounds": {
-        "x": 1267,
-        "y": 120,
-        "width": 618,
-        "height": 693
-      },
-      "action": {
-        "type": "postback",
-        "text": "想知道雲服務的戰略價值",
-        "data": "tag=cloud"
-      }
-    },
-    {
-      "bounds": {
-        "x": 1898,
-        "y": 116,
-        "width": 594,
-        "height": 701
-      },
-      "action": {
-        "type": "postback",
-        "text": "產品快速導入的訣竅",
-        "data": "tag=devops"
-      }
-    },
-    {
-      "bounds": {
-        "x": 45,
-        "y": 858,
-        "width": 557,
+        "x": 50,
+        "y": 92,
+        "width": 671,
         "height": 751
       },
       "action": {
-        "type": "postback",
-        "text": "點擊旁邊連結 line://ti/p/@gby2522m 進行聯絡",
-        "data": "tag=contact"
+        "type": "message",
+        "text": "大學時期"
       }
     },
     {
       "bounds": {
-        "x": 623,
-        "y": 850,
-        "width": 1266,
-        "height": 755
+        "x": 969,
+        "y": 80,
+        "width": 549,
+        "height": 763
       },
       "action": {
-        "type": "uri",
-        "uri": "https://www.youtube.com/channel/UC3Gi7RVF6-rY2JBbfvMV9yA"
+        "type": "message",
+        "text": "擔任講師"
       }
     },
     {
       "bounds": {
-        "x": 1906,
-        "y": 854,
-        "width": 582,
-        "height": 747
+        "x": 1808,
+        "y": 76,
+        "width": 583,
+        "height": 767
       },
       "action": {
-        "type": "postback",
-        "text": "切換分頁",
-        "data": "tag=change_menu"
+        "type": "message",
+        "text": "出外實習"
       }
     }
   ]

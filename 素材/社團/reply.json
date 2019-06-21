@@ -1,29 +1,10 @@
 [{
   "type": "text",
   "text": "在社團的部分，我在大三時擔任輔大證券研究社社長，規劃了一系列的講座讓同學學習投資的相關知識\n\n另外，我們也規劃了社團首次全國性的投資模擬競賽\n競賽期間，雖然同時與元大及台大之投資模擬競賽撞期，也有報名費高等不利因素，但我們仍突破困境，增加具原創性的活動，吸引近200名學生參加競賽"
-},{
+},
+{
   "type": "image",
   "originalContentUrl": "https://s3-us-west-2.amazonaws.com/linebotselfintroduction/22687693_1995120304058032_4766503976879302963_n.jpg",
   "previewImageUrl": "https://s3-us-west-2.amazonaws.com/linebotselfintroduction/22687693_1995120304058032_4766503976879302963_n.jpg",
   "animated": false
-},{
-  "type": "template",
-  "altText": "this is a buttons template",
-  "template": {
-    "type": "buttons",
-    "actions": [
-
-      {
-        "type": "message",
-        "label": "課外活動",
-        "text": "課外活動"
-      },
-      {
-        "type": "message",
-        "label": "學業",
-        "text": "學業"
-      }
-    ],
-    "text": "瀏覽其他主題"
-  }
 }]

@@ -1,0 +1,34 @@
+[{
+  "type": "template",
+  "altText": "this is a carousel template",
+  "template": {
+    "type": "carousel",
+    "actions": [],
+    "columns": [
+      {
+        "thumbnailImageUrl": "https://linebotselfintroduction.s3-us-west-2.amazonaws.com/學業.jpg",
+        "title": "學業",
+        "text": "在校期間數次獲得書卷獎",
+        "actions": [
+          {
+            "type": "message",
+            "label": "學業",
+            "text": "學業"
+          }
+        ]
+      },
+      {
+        "thumbnailImageUrl": "https://linebotselfintroduction.s3-us-west-2.amazonaws.com/社團.jpg",
+        "title": "社團",
+        "text": "擔任社長，舉辦多次大型活動",
+        "actions": [
+          {
+            "type": "message",
+            "label": "社團",
+            "text": "社團"
+          }
+        ]
+      }
+    ]
+  }
+}]

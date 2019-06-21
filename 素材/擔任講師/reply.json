@@ -1,0 +1,44 @@
+[{
+  "type": "template",
+  "altText": "this is a carousel template",
+  "template": {
+    "type": "carousel",
+    "actions": [],
+    "columns": [
+      {
+        "thumbnailImageUrl": "https://cdn-static.tibame.com/resize/course/287/coverPic/af1fc18d-a3de-42d6-a341-0066532a7a77_VBA-Cover_2x.png",
+        "title": "線上課程-VBA網路爬蟲",
+        "text": "發掘市場，快速執行",
+        "actions": [
+          {
+            "type": "uri",
+            "label": "課程網址",
+            "uri": "https://www.tibame.com/course/287"
+          },
+          {
+            "type": "message",
+            "label": "VBA網路爬蟲_開課歷程",
+            "text": "VBA網路爬蟲_開課歷程"
+          }
+        ]
+      },
+      {
+        "thumbnailImageUrl": "https://cdn-static.tibame.com/resize/course/426/coverPic/a4d34adb-1737-452b-8a51-560b4bf87716_ExcelVBA入門_CoverN_2x.png",
+        "title": "線上課程-VBA超入門實戰",
+        "text": "發揮特色，讓課程變成全台唯一",
+        "actions": [
+          {
+            "type": "message",
+            "label": "課程網址",
+            "text": "https://www.tibame.com/course/426"
+          },
+          {
+            "type": "message",
+            "label": "VBA超入門實戰_開課歷程",
+            "text": "VBA超入門實戰_開課歷程"
+          }
+        ]
+      }
+    ]
+  }
+}]
